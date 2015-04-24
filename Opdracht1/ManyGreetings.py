@@ -1,1 +1,2 @@
-print(4+2)
+naam = input("What is your name? ")
+print("Hello "+naam)
