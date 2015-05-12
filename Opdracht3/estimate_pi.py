@@ -13,10 +13,6 @@ if len(sys.argv) < 3:
 N = int(sys.argv[1])
 L = float(sys.argv[2])
 
-if L > 1:
-    print("AssertionError: L should be smaller than 1")
-    exit(1)
-
 def drop_needle(L):
     x0 = random.random()
     theta = random.vonmisesvariate(0,0)
@@ -33,7 +29,12 @@ while i < N:
         hits = hits + 1
     i = i + 1
 
-approx = 2*L/(hits/N)
-
-print(hits, "hits in", N, "tries")
-print("Pi =", approx)
+if L > 1:
+    a = math.sqrt(L*L-1) + math.asin(1/L)
+    PI = (2*L - 2*a)/((hits/N) - 1)
+    print(hits, "hits in", N, "tries")
+    print("Pi =", PI)
+else:
+    approx = 2*L/(hits/N)
+    print(hits, "hits in", N, "tries")
+    print("Pi =", approx)
