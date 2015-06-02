@@ -9,3 +9,7 @@ print(w)
 w = w.scalar(2)
 
 print(w)
+
+print(w.norm())
+
+print(w.inner(u))

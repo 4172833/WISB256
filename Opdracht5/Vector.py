@@ -30,6 +30,19 @@ class Vector:
         w = Vector(self, lijst2)
         return(w)
         
+    def inner(self, other):
+        d = 0
+        for e in range(len(self.lst)):
+            d = d + (self.lst[e]*other.lst[e])
+            
+        return(d)
     
+    def norm(self):
+        f = 0
+        for g in range(len(self.lst)):
+            f = f + ((self.lst[g])**2)
+        h = f**0.5
+        
+        return(h)
         
     
