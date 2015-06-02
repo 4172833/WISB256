@@ -11,5 +11,8 @@ class Vector:
     def __str__(self):
         string = ""
         for a in range(len(self.lst)):
-            string += str("{0:.6f}".format(self.lst[a])) + "\n"
+            if self.lst[a] == 0:
+                string += str("{0:.6f}".format(self.lst[a])) + "\n"
+            else:
+                string += str(format(self.lst[a])) + "\n"
         return(string)   

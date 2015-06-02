@@ -1,5 +1,5 @@
 from Vector import Vector
 
-v0 = Vector(4,[1,2,3,4])
+v0 = Vector(3, [2.0, 3.14, -5.0])
 
 print(v0)
