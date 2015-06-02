@@ -9,10 +9,7 @@ class Vector:
                 self.lst.append(j)
             
     def __str__(self):
-        a = 0
-        b = len(self.lst)
         string = ""
-        while a < b:
+        for a in range(len(self.lst)):
             string += str("{0:.6f}".format(self.lst[a])) + "\n"
-            a = a + 1
         return(string)   
