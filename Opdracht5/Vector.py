@@ -11,8 +11,25 @@ class Vector:
     def __str__(self):
         string = ""
         for a in range(len(self.lst)):
-            if self.lst[a] == 0:
-                string += str("{0:.6f}".format(self.lst[a])) + "\n"
-            else:
-                string += str(format(self.lst[a])) + "\n"
-        return(string)   
+            string += str("{0:.6f}".format(self.lst[a])) + "\n"
+        return(string)
+    
+    def lincomb(self, other, alpha, beta):
+        lijst = []
+        for b in range(len(self.lst)):
+           lijst.append(alpha*self.lst[b] + beta*other.lst[b])
+        
+        w = Vector(self, lijst)
+        return(w)
+    
+    def scalar(self,alpha):
+        lijst2 = []
+        for c in range(len(self.lst)):
+            lijst2.append(alpha*self.lst[c])
+            
+        w = Vector(self, lijst2)
+        return(w)
+        
+    
+        
+    
