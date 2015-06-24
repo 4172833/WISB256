@@ -1,0 +1,174 @@
+test[0, 1, 2, 3]
+3
+l
+test[0, 2, 3]
+3
+l
+test[0, 2, 3]
+0
+u
+test[1, 3]
+3
+l
+test[0, 2, 3]
+2
+d
+test[2, 3]
+2
+d
+test[1, 2, 3]
+3
+l
+test[0, 2, 3]
+3
+l
+test[0, 2, 3]
+2
+d
+test[1, 2, 3]
+3
+l
+test[0, 2, 3]
+3
+l
+test[0, 2]
+2
+d
+test[1, 2, 3]
+2
+d
+test[1, 2, 3]
+1
+r
+test[0, 1, 2]
+0
+u
+test[1]
+1
+r
+test[1, 2]
+1
+r
+test[0, 1, 2]
+2
+d
+test[1, 2, 3]
+3
+l
+test[2]
+2
+d
+test[1, 2, 3]
+1
+r
+test[1, 2]
+2
+d
+test[2, 3]
+3
+l
+test[2, 3]
+3
+l
+test[0, 2, 3]
+0
+u
+test[3]
+3
+l
+test[2, 3]
+3
+l
+test[0, 2, 3]
+3
+l
+test[0, 2, 3]
+2
+d
+test[1, 2, 3]
+1
+r
+test[1, 2]
+2
+d
+test[1]
+1
+r
+test[0, 1, 2]
+0
+u
+test[]
+1
+r
+test[2]
+2
+d
+test[1]
+1
+r
+test[1, 2]
+2
+d
+test[1, 2]
+2
+d
+test[1, 2, 3]
+2
+d
+test[1, 2, 3]
+1
+r
+test[0, 1, 2]
+2
+d
+test[1, 2, 3]
+3
+l
+test[2, 3]
+2
+d
+test[1]
+1
+r
+test[1]
+1
+r
+test[0, 1, 2]
+1
+r
+test[0, 2]
+2
+d
+test[1, 2, 3]
+3
+l
+test[2, 3]
+2
+d
+test[1, 2, 3]
+1
+r
+test[1, 2]
+1
+r
+test[0, 1, 2]
+1
+r
+test[0, 1, 2]
+1
+r
+test[0]
+0
+u
+test[0, 1, 3]
+1
+r
+test[0, 1, 2]
+2
+d
+test[1, 2]
+1
+r
+test[0, 1, 2]
+2
+d
