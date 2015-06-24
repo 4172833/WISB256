@@ -39,10 +39,10 @@ class Vector:
     
     def norm(self):
         f = 0
+        
         for g in range(len(self.lst)):
             f = f + ((self.lst[g])**2)
         h = f**0.5
-        
         return(h)
         
     

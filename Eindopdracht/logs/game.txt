@@ -1,0 +1,479 @@
+TIMESTEP 0
+............#..
+...#...........
+#1..........#..
+...........#...
+........#.....#
+...........##..
+...............
+.......#....#..
+....#.......#.#
+.........0.#...
+/TIMESTEP 0
+Player 0's AI crashed!
+As a result, player 0 has been declared dead
+Moves to be executed: xd
+Player 0 has 0 points
+Player 1 has 1000 points
+TIMESTEP 1
+............#..
+...#...........
+#....x......#..
+.1.........#...
+........#.....#
+...........##..
+...............
+.......#....#..
+....#.......#.#
+.........0.#...
+/TIMESTEP 1
+Moves to be executed: xd
+Player 0 has 0 points
+Player 1 has 1001 points
+TIMESTEP 2
+............#..
+...#.........x.
+#....x......#..
+...........#...
+.1......#.....#
+...........##..
+...............
+.......#....#..
+....#.......#.#
+.........0.#...
+/TIMESTEP 2
+Moves to be executed: xd
+Player 0 has 0 points
+Player 1 has 1002 points
+TIMESTEP 3
+............#..
+...#....x....x.
+#....x......#..
+...........#...
+........#.....#
+.1.........##..
+...............
+.......#....#..
+....#.......#.#
+.........0.#...
+/TIMESTEP 3
+Moves to be executed: xd
+Player 0 has 0 points
+Player 1 has 1003 points
+TIMESTEP 4
+...........x#..
+...#....x....x.
+#....x......#..
+...........#...
+........#.....#
+...........##..
+.1.............
+.......#....#..
+....#.......#.#
+.........0.#...
+/TIMESTEP 4
+Moves to be executed: xd
+Player 0 has 0 points
+Player 1 has 1004 points
+TIMESTEP 5
+...........x#..
+...#....x....x.
+#....x......#..
+...........#...
+........#.....#
+...........##..
+...............
+.1x....#....#..
+....#.......#.#
+.........0.#...
+/TIMESTEP 5
+Moves to be executed: xd
+Player 0 has 0 points
+Player 1 has 1005 points
+TIMESTEP 6
+...........x#..
+...#....x....x.
+#....x......#..
+.....x.....#...
+........#.....#
+...........##..
+...............
+..x....#....#..
+.1..#.......#.#
+.........0.#...
+/TIMESTEP 6
+Moves to be executed: xd
+Player 0 has 0 points
+Player 1 has 1006 points
+TIMESTEP 7
+...........x#..
+...#....x....x.
+#....x......#..
+x....x.....#...
+........#.....#
+...........##..
+...............
+..x....#....#..
+....#.......#.#
+.1.......0.#...
+/TIMESTEP 7
+Moves to be executed: xd
+Player 0 has 0 points
+Player 1 has 1007 points
+TIMESTEP 8
+.1.........x#..
+...#....x....x.
+#....x......#..
+x....x.....#...
+........#.....#
+...........##..
+...............
+..x....#....#.x
+....#.......#.#
+.........0.#...
+/TIMESTEP 8
+Moves to be executed: xd
+Player 0 has 0 points
+Player 1 has 1008 points
+TIMESTEP 9
+...........x#..
+.1.#....x....x.
+#....x......#..
+x....x.....#...
+.......x#.....#
+...........##..
+...............
+..x....#....#.x
+....#.......#.#
+.........0.#...
+/TIMESTEP 9
+Moves to be executed: xd
+Player 0 has 0 points
+Player 1 has 1009 points
+TIMESTEP 10
+...........x#..
+...#....x....x.
+#1...x.x....#..
+x....x.....#...
+.......x#.....#
+...........##..
+...............
+..x....#....#.x
+....#.......#.#
+.........0.#...
+/TIMESTEP 10
+Moves to be executed: xd
+Player 0 has 0 points
+Player 1 has 1010 points
+TIMESTEP 11
+...........x#..
+...#....x....x.
+#....x.x....#..
+x1...x.....#...
+.......x#.....#
+...........##..
+.........x.....
+..x....#....#.x
+....#.......#.#
+.........0.#...
+/TIMESTEP 11
+Moves to be executed: xd
+Player 0 has 0 points
+Player 1 has 1011 points
+TIMESTEP 12
+...........x#..
+...#....x....x.
+#....x.x....#..
+x....x.....#...
+.1.....x#.....#
+x..........##..
+.........x.....
+..x....#....#.x
+....#.......#.#
+.........0.#...
+/TIMESTEP 12
+Moves to be executed: xd
+Player 0 has 0 points
+Player 1 has 1012 points
+TIMESTEP 13
+...........x#..
+...#....x....x.
+#....x.x....#..
+x....x.....#...
+.......x#.....#
+x1.........##..
+.........x..x..
+..x....#....#.x
+....#.......#.#
+.........0.#...
+/TIMESTEP 13
+Moves to be executed: xd
+Player 0 has 0 points
+Player 1 has 1013 points
+TIMESTEP 14
+...........x#..
+...#....x....x.
+#....x.x....#..
+x....x.....#...
+.......x#.....#
+x..........##..
+.1.......x..x..
+..x.x..#....#.x
+....#.......#.#
+.........0.#...
+/TIMESTEP 14
+Moves to be executed: xd
+Player 0 has 0 points
+Player 1 has 1014 points
+TIMESTEP 15
+...........x#..
+...#....x....x.
+#....x.x....#..
+x....x.....#...
+.......x#.....#
+x..........##..
+.........x..x..
+.1x.x.x#....#.x
+....#.......#.#
+.........0.#...
+/TIMESTEP 15
+Moves to be executed: xd
+Player 0 has 0 points
+Player 1 has 1015 points
+TIMESTEP 16
+...........x#..
+...#....x....x.
+#....x.x....#..
+x....x.....#...
+.......x#.....#
+xx.........##..
+.........x..x..
+..x.x.x#....#.x
+.1..#.......#.#
+.........0.#...
+/TIMESTEP 16
+Moves to be executed: xd
+Player 0 has 0 points
+Player 1 has 1016 points
+TIMESTEP 17
+...........x#..
+...#....x....x.
+#....x.x....#..
+x....x.....#...
+.......x#.....#
+xx.........##..
+x........x..x..
+..x.x.x#....#.x
+....#.......#.#
+.1.......0.#...
+/TIMESTEP 17
+Moves to be executed: xd
+Player 0 has 0 points
+Player 1 has 1017 points
+TIMESTEP 18
+.1.........x#..
+...#....x....x.
+#....x.x....#..
+x....x.....#x..
+.......x#.....#
+xx.........##..
+x........x..x..
+..x.x.x#....#.x
+....#.......#.#
+.........0.#...
+/TIMESTEP 18
+Moves to be executed: xd
+Player 0 has 0 points
+Player 1 has 1018 points
+TIMESTEP 19
+...........x#..
+.1.#....x....x.
+#....x.x....#..
+x....x.....#x..
+.x.....x#.....#
+xx.........##..
+x........x..x..
+..x.x.x#....#.x
+....#.......#.#
+.........0.#...
+/TIMESTEP 19
+Moves to be executed: xd
+Player 0 has 0 points
+Player 1 has 1019 points
+TIMESTEP 20
+...........x#..
+...#....x....x.
+#1...x.x....#..
+x....x.....#x..
+.x.....x#.....#
+xx.........##..
+x........x..x..
+..x.x.x#....#.x
+....#....x..#.#
+.........0.#...
+/TIMESTEP 20
+Moves to be executed: xd
+Player 0 has 0 points
+Player 1 has 1020 points
+TIMESTEP 21
+...........x#..
+...#....x....x.
+#....x.x....#..
+x1...x.....#x..
+.x.....x#.....#
+xx.........##..
+x........xx.x..
+..x.x.x#....#.x
+....#....x..#.#
+.........0.#...
+/TIMESTEP 21
+Moves to be executed: xd
+Player 0 has 0 points
+Player 1 has 1021 points
+TIMESTEP 22
+...........x#..
+...#....x....x.
+#....x.x....#..
+x1...x.....#x..
+.1.....x#.....#
+xx.........##..
+x........xx.x..
+..x.x.x#....#.x
+x...#....x..#.#
+.........0.#...
+/TIMESTEP 22
+Moves to be executed: xd
+Player 0 has 0 points
+Player 1 has 1121 points
+TIMESTEP 23
+...........x#..
+...#....x....x.
+#....x.x....#..
+x1...x.....#x..
+.1.....x#.....#
+x1.........##..
+x........xx.x..
+..x.x.x#....#.x
+x...#....x..#.#
+....x....0.#...
+/TIMESTEP 23
+Moves to be executed: xd
+Player 0 has 0 points
+Player 1 has 1221 points
+TIMESTEP 24
+...........x#..
+...#....x....x.
+#....x.x....#..
+x....x.....#x..
+.1.....x#.x...#
+x1.........##..
+x1.......xx.x..
+..x.x.x#....#.x
+x...#....x..#.#
+....x....0.#...
+/TIMESTEP 24
+Moves to be executed: xd
+Player 0 has 0 points
+Player 1 has 1222 points
+TIMESTEP 25
+...........x#..
+...#....x....x.
+#....x.x....#..
+x....x.....#x..
+.......x#.x...#
+x1.........##..
+x1x......xx.x..
+.1x.x.x#....#.x
+x...#....x..#.#
+....x....0.#...
+/TIMESTEP 25
+Moves to be executed: xd
+Player 0 has 0 points
+Player 1 has 1223 points
+TIMESTEP 26
+...........x#..
+...#....x....x.
+#....x.x....#..
+x...xx.....#x..
+.......x#.x...#
+x..........##..
+x1x......xx.x..
+.1x.x.x#....#.x
+x1..#....x..#.#
+....x....0.#...
+/TIMESTEP 26
+Moves to be executed: xd
+Player 0 has 0 points
+Player 1 has 1224 points
+TIMESTEP 27
+...........x#..
+...#....x....x.
+#....x.x....#..
+x...xx.....#x..
+.......x#.x...#
+x..........##..
+x.x......xx.x..
+.1x.x.x#....#.x
+x1..#....x..#x#
+.1..x....0.#...
+/TIMESTEP 27
+Moves to be executed: xd
+Player 0 has 0 points
+Player 1 has 1225 points
+TIMESTEP 28
+.1.........x#..
+...#....x....x.
+#....x.x....#..
+x.x.xx.....#x..
+.......x#.x...#
+x..........##..
+x.x......xx.x..
+..x.x.x#....#.x
+x1..#....x..#x#
+.1..x....0.#...
+/TIMESTEP 28
+Moves to be executed: xd
+Player 0 has 0 points
+Player 1 has 1226 points
+TIMESTEP 29
+.1.........x#..
+.1.#....x....x.
+#....x.x....#..
+x.x.xx.....#x..
+.......x#.x...#
+x..........##..
+x.x......xx.x..
+..x.x.x#x...#.x
+x...#....x..#x#
+.1..x....0.#...
+/TIMESTEP 29
+Moves to be executed: xd
+Player 0 has 0 points
+Player 1 has 1227 points
+TIMESTEP 30
+.1.........x#..
+.1.#....x....x.
+#1...x.x....#..
+x.x.xx.....#x..
+.......x#.x...#
+x..........##..
+x.x......xx.x..
+..x.x.x#x...#.x
+x...#.x..x..#x#
+....x....0.#...
+/TIMESTEP 30
+Moves to be executed: xd
+Player 0 has 0 points
+Player 1 has 1228 points
+TIMESTEP 31
+...........x#..
+.1.#....x....x.
+#1...x.x....#..
+x1x.xx.....#x..
+.......x#.x...#
+x..........##..
+x.x......xx.x..
+..x.x.x#x.x.#.x
+x...#.x..x..#x#
+....x....0.#...
+/TIMESTEP 31
